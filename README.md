@@ -1,14 +1,11 @@
 # 🌍 PROYECTO GRUPO 4 - ODS 12 
 
->![ods12](FUNDAMENTOS_DE_DISEÑO/imagenes/readme-principal/ODS12.JPG)
-Fuente: Almagra, 2019
-
 ## 👥 Equipo de Trabajo
-- Paola Andrea Centeno Bazan  
-- Juan Vidal Berrocal Ccapcha 
-- Mónica Cristina Huaman Bernal
-- Jhosselyn Dayanna Enriquez Aliaga 
-- Carlos Enriquez Mantilla Aguila.  
+- **Paola Andrea Centeno Bazan**
+- **Juan Vidal Berrocal Ccapcha** 
+- **Mónica Cristina Huaman Bernal**
+- **Jhosselyn Dayanna Enriquez Aliaga**
+- **Carlos Enriquez Mantilla Aguila** 
 
 ---
 
