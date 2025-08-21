@@ -1,6 +1,6 @@
 # 🌍 PROYECTO GRUPO 4 - ODS 12 
 
-![ODS 12](https://www.industriales.upm.es/wp-content/uploads/2023/02/ODS-12-e1675346840416-1024x495.jpg)
+
 
 ## 👥 Equipo de Trabajo
 - Paola Andrea Centeno Bazan  
