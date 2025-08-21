@@ -6,7 +6,7 @@
 - Paola Andrea Centeno Bazan  
 - Juan Vidal Berrocal Ccapcha 
 - Mónica Cristina Huaman Bernal
-- Jhosselyn Dayanna Enriquez Aliaga  
+- Jhosselyn Dayanna Enriquez Aliaga 
 - Carlos Enriquez Mantilla Aguila.  
 
 ---
