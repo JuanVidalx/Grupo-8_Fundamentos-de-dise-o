@@ -1,6 +1,6 @@
 # 🌍 PROYECTO GRUPO 4 - ODS 12 
 
-![ODS 12](https://sdgs.un.org/sites/default/files/styles/goal_large/public/2023-07/E_SDG_Icons-12.jpg)
+![ODS 12](https://www.industriales.upm.es/wp-content/uploads/2023/02/ODS-12-e1675346840416-1024x495.jpg)
 
 ## 👥 Equipo de Trabajo
 - Paola Andrea Centeno Bazan  
