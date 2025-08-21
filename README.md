@@ -1,6 +1,7 @@
 # 🌍 PROYECTO GRUPO 4 - ODS 12 
 
-
+>![ods12](FUNDAMENTOS_DE_DISEÑO/imagenes/readme-principal/ODS12.JPG)
+Fuente: Almagra, 2019
 
 ## 👥 Equipo de Trabajo
 - Paola Andrea Centeno Bazan  
