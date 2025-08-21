@@ -1,4 +1,6 @@
-# 🌍 Proyecto de Sostenibilidad
+# 🌍 PROYECTO GRUPO 4 - ODS 12 
+
+![ODS 12](https://sdgs.un.org/sites/default/files/styles/goal_large/public/2023-07/E_SDG_Icons-12.jpg)
 
 ## 👥 Equipo de Trabajo
 - Paola Andrea Centeno Bazan  
@@ -24,9 +26,4 @@ El ODS 12 busca **garantizar modalidades de consumo y producción sostenibles**,
 
 ---
 
-## 📢 Presentación
-En este proyecto:  
-- Presentaremos a nuestro **equipo de trabajo** 👥.  
-- Explicaremos el **ODS 12**, su importancia y principales metas.  
-- Justificaremos por qué lo elegimos y cómo se conecta con nuestra realidad.  
-- Finalmente, mostraremos propuestas de acción concretas que podemos aplicar en la vida diaria y en la comunidad.  
+
