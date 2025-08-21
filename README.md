@@ -5,7 +5,7 @@
 ## 👥 Equipo de Trabajo
 - Paola Andrea Centeno Bazan  
 - Juan Vidal Berrocal Ccapcha 
-- Mónica Cristina Huama
+- Mónica Cristina Huaman
 - n Bernal  
 - Jhosselyn Dayanna Enriquez Aliaga  
 - Carlos Enriquez Mantilla Aguila  
