@@ -1,5 +1,7 @@
 # 🌍 PROYECTO GRUPO 4 - ODS 12 
 
+![ods_12](https://github.com/JuanVidalx/Grupo-4_Fundamentos-de-dise-o/blob/05fad9449a39b9e1cc774faa3228613bc974876a/ods12.jpg)
+
 ## 👥 Equipo de Trabajo
 - **Paola Andrea Centeno Bazan**
 - **Juan Vidal Berrocal Ccapcha** 
