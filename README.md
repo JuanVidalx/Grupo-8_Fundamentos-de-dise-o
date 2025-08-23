@@ -15,7 +15,7 @@
 | Integrante | Carrera | Correo |  
 |------------|---------|--------|  
 | ✨ **Paola Andrea Centeno Bazan** | 🖥️ Ingeniería Informática | [paola.centeno@upch.pe](mailto:paola.centeno@upch.pe) |  
-| 🚀 **Juan Vidal Berrocal Ccapcha** | 💻 Ingeniería Informática | [juan.vidal@upch.pe](mailto:juan.berrocal@upch.pe) |  
+| 🚀 **Juan Vidal Berrocal Ccapcha** | 💻 Ingeniería Informática | [juan.berrocal@upch.pe](mailto:juan.berrocal@upch.pe) |  
 | 🌱 **Mónica Cristina Huaman Bernal** | 🌍 Ingeniería Ambiental | [monica.huaman.b@upch.pe](mailto:monica.huaman.b@upch.pe) |  
 | 💡 **Jhosselyn Dayanna Enriquez Aliaga** | 🌱 Ingeniería Ambiental | [jhosselyn.enriquez@upch.pe](mailto:jhosselyn.enriquez@upch.pe) |  
 | 🔧 **Carlos Enriquez Mantilla Aguila** | 🖥️ Ingeniería Informática | [carlos.mantilla@upch.pe](mailto:carlos.mantilla@upch.pe) |  
