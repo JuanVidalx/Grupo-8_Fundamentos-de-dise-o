@@ -12,7 +12,7 @@
 
 ## 🌍 Descripción del Equipo  
 
-Somos el **Equipo 04** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de las carreras de **Ingeniería Ambiental**, **Ingeniería Informática** e **Ingeniería Industrial**.  
+Somos el **Equipo 04** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de las carreras de **Ingeniería Ambiental** e **Ingeniería Informática**.  
 
 Nuestro objetivo es **aplicar la metodología de diseño** para generar soluciones innovadoras con impacto **social, tecnológico y ambiental**.  
 
