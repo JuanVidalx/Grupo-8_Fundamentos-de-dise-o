@@ -33,13 +33,14 @@ Esto implica:
 
 ## 👥 Integrantes del Equipo  
 
-| Integrante | Carrera | Correo |  
-|------------|---------|--------|  
-| ✨ **Paola Andrea Centeno Bazan** | 🖥️ Ingeniería Informática | [paola.centeno@upch.pe](mailto:paola.centeno@upch.pe) |  
-| 🚀 **Juan Vidal Berrocal Ccapcha** | 💻 Ingeniería Informática | [juan.berrocal@upch.pe](mailto:juan.berrocal@upch.pe) |  
-| 🌱 **Mónica Cristina Huaman Bernal** | 🌍 Ingeniería Ambiental | [monica.huaman.b@upch.pe](mailto:monica.huaman.b@upch.pe) |  
-| 💡 **Jhosselyn Dayanna Enriquez Aliaga** | 🌱 Ingeniería Ambiental | [jhosselyn.enriquez@upch.pe](mailto:jhosselyn.enriquez@upch.pe) |  
-| 🔧 **Carlos Enriquez Mantilla Aguila** | 🖥️ Ingeniería Informática | [carlos.mantilla@upch.pe](mailto:carlos.mantilla@upch.pe) |  
+| Nombre | Rol | Intereses |
+|--------|-----|-----------|
+| **Paola Andrea Centeno Bazan** | Líder del equipo | Innovación social, sostenibilidad |
+| **Mónica Cristina Huaman Bernal** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| **Carlos Enriquez Mantilla Aguila** | Diseñadora | Diseño de prototipos, creatividad aplicada |
+| **Jhosselyn Dayanna Enriquez Aliaga** | Encargada de documentación | Comunicación científica, redacción técnica |
+| **Juan Vidal Berrocal Ccapcha** | Programador - Modelador | Programación, análisis de datos, simulación |
+
 
 ---
 
