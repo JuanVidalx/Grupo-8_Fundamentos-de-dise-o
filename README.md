@@ -1,5 +1,8 @@
 <h1 align="center">🌍 EQUIPO 08 - Fundamentos de Diseño 2025-2 </h1>
 
+### Carrera de Ingeniería Ambiental / Informática / Industrial  
+**Universidad Peruana Cayetano Heredia**
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=DAA520&center=true&vCenter=true&width=950&lines=♻️+Producción+y+Consumo+Responsables;💡+Innovando+para+un+futuro+sostenible;🤝+Trabajo+en+equipo+y+responsabilidad+social" alt="animacion bienvenida">
 </p>
@@ -7,6 +10,7 @@
 <p align="center">
   <img src="https://github.com/JuanVidalx/Grupo-4_Fundamentos-de-dise-o/blob/05fad9449a39b9e1cc774faa3228613bc974876a/ods12.jpg" width="600" alt="ODS 12">
 </p>
+
 
 ---
 
