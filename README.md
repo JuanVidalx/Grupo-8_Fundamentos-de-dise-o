@@ -37,7 +37,7 @@ Esto implica:
 |--------|-----|-----------|
 | **Paola Andrea Centeno Bazan** | Líder del equipo | Innovación social, sostenibilidad |
 | **Mónica Cristina Huaman Bernal** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| **Carlos Enriquez Mantilla Aguila** | Diseñadora | Diseño de prototipos, creatividad aplicada |
+| **Carlos Enriquez Mantilla Aguila** | Diseñador | Diseño de prototipos, creatividad aplicada |
 | **Jhosselyn Dayanna Enriquez Aliaga** | Encargada de documentación | Comunicación científica, redacción técnica |
 | **Juan Vidal Berrocal Ccapcha** | Programador - Modelador | Programación, análisis de datos, simulación |
 
