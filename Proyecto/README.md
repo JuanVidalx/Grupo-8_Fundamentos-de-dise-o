@@ -18,19 +18,26 @@
 ---
 
 ## ✅ Propósito del Proyecto  
-En este repositorio se documentará los avances de un **"sensor de humo, humedad y temperatura conectado a un sistema de riego"**, con la finalidad de prevenir incendios forestales, ayudando a la conservación de lugares con gran cantidad de vegetación y temperaturas altas como la Selva Tropical.
+En este repositorio se documentará el desarrollo de un sistema de detección de cadmio en paltas, con el propósito de contribuir a la seguridad alimentaria y reducir los riesgos para la salud humana asociados al consumo de metales pesados.
 
-Este proyecto contribuye con el **Objetivo de Desarrollo Sostenible (ODS) 13: ACCIÓN POR EL CLIMA**, en específico la **meta 13.1**, la cual busca generar respuestas rápidas y de adaptación ante el cambio climático.
+Este proyecto se alinea con los Objetivos de Desarrollo Sostenible (ODS):
 
-Nuestro sensor, al detectar humo y un cambio en la humedad y temperatura, activará inmediatamente un sistema de riego para prevenir los incendios forestales.
+ODS 12: Producción y Consumo Responsables, promoviendo prácticas agrícolas más seguras y sostenibles.
+
+ODS 3: Salud y Bienestar, específicamente la meta 3.9, que busca reducir las enfermedades causadas por productos químicos peligrosos.
+
+Mediante la identificación temprana de cadmio en los cultivos de palta, se busca proteger tanto al consumidor como al medio ambiente, garantizando productos más seguros para el mercado.
 
 ---
 
 ## Objetivo del Proyecto  
 
-Diseñar e implementar un **sistema de riego automatizado y eficiente**, capaz de:
+Diseñar e implementar un sistema de monitoreo y detección de cadmio en paltas, con la capacidad de:
 
-- Monitorear la humedad del suelo y del ambiente.  
-- Activar el riego solo cuando los niveles estén por debajo de los umbrales críticos.  
-- Mantener el terreno húmedo en zonas de riesgo, disminuyendo la probabilidad de propagación de incendios.  
-- Optimizar el uso de agua mediante riegos puntuales y controlados.
+- Identificar la presencia de cadmio en tiempo real o a través de muestras procesadas.
+
+- Alertar a los agricultores sobre niveles peligrosos para tomar acciones correctivas.
+
+- Contribuir al control de calidad en la producción agrícola destinada al consumo humano.
+
+- Fomentar una agricultura más responsable, saludable y alineada con los estándares internacionales de inocuidad alimentaria.
