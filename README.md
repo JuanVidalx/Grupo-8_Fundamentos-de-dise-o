@@ -21,7 +21,7 @@ Nuestro objetivo es **aplicar la metodología de diseño** para generar solucion
 ## 📸 Fotografía del Equipo  
 <p align="center">
   <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/8243102d33198df96d2fe282beec6245bb527fc2/Recursos-Imagenes/WhatsApp%20Image%202025-08-28%20at%2010.34.49%20(2).jpeg?raw=true" alt="Foto grupal del equipo" width="500"/><br>
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo 08</em>
 </p>
 
 ---
