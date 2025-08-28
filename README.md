@@ -1,4 +1,4 @@
-<h1 align="center">🌍 EQUIPO 08 - Fundamentos de Diseño 2025-2 ✨</h1>
+<h1 align="center">🌍 EQUIPO 08 - Fundamentos de Diseño 2025-2 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=DAA520&center=true&vCenter=true&width=950&lines=♻️+Producción+y+Consumo+Responsables;💡+Innovando+para+un+futuro+sostenible;🤝+Trabajo+en+equipo+y+responsabilidad+social" alt="animacion bienvenida">
@@ -62,7 +62,7 @@ Este **README** resume **quiénes somos, qué nos motiva y en qué ODS queremos 
 
 Como **Equipo 08- UPCH**, asumimos el compromiso de usar el **diseño, la innovación y la interdisciplinariedad** como herramientas para proponer soluciones que generen un **impacto positivo en la sociedad, la tecnología y el ambiente**.  
 
-✨ En conclusión, nuestro propósito es **aprender, crear e innovar**, con responsabilidad hacia las personas, la comunidad y el planeta.  
+En conclusión, nuestro propósito es **aprender, crear e innovar**, con responsabilidad hacia las personas, la comunidad y el planeta.  
 
 ---
 
