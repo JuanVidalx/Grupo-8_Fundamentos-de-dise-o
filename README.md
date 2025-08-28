@@ -11,6 +11,11 @@
   <img src="https://github.com/JuanVidalx/Grupo-4_Fundamentos-de-dise-o/blob/05fad9449a39b9e1cc774faa3228613bc974876a/ods12.jpg" width="600" alt="ODS 12">
 </p>
 
+<p align="center">
+  <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/5b0383ca4b5a627771a464bc9115cfa8313a2e8e/Recursos-Imagenes/sdg%203%20grande%20es.jpg" width="600" alt="ODS 12">
+</p>
+
+
 
 ---
 
