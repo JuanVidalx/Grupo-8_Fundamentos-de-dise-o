@@ -33,13 +33,14 @@ Esto implica:
 
 ## 👥 Integrantes del Equipo  
 
-| Nombre | Rol | Intereses |
-|--------|-----|-----------|
-| **Paola Andrea Centeno Bazan** | Líder del equipo | Innovación social, sostenibilidad |
-| **Mónica Cristina Huaman Bernal** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| **Carlos Enriquez Mantilla Aguila** | Diseñador | Diseño de prototipos, creatividad aplicada |
-| **Jhosselyn Dayanna Enriquez Aliaga** | Encargada de documentación | Comunicación científica, redacción técnica |
-| **Juan Vidal Berrocal Ccapcha** | Programador - Modelador | Programación, análisis de datos, simulación |
+| Foto | Nombre | Rol | Intereses |
+|------|--------|-----|-----------|
+|  | **Paola Andrea Centeno Bazan** | Líder del equipo | Innovación social, sostenibilidad |
+|  | **Mónica Cristina Huaman Bernal** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/fb3ef094700a99c9b161483893bc642a32594a44/Recursos-Imagenes/WhatsApp%20Image%202025-08-27%20at%2011.44.49%20AM.jpeg?raw=true" width="90"/> | **Carlos Enriquez Mantilla Aguila** | Diseñador | Diseño de prototipos, creatividad aplicada |
+|  | **Jhosselyn Dayanna Enriquez Aliaga** | Encargada de documentación | Comunicación científica, redacción técnica |
+|  | **Juan Vidal Berrocal Ccapcha** | Programador - Modelador | Programación, análisis de datos, simulación |
+
 
 
 ---
