@@ -1,6 +1,6 @@
 <h1 align="center">🌍 EQUIPO 08 - Fundamentos de Diseño 2025-2 </h1>
 
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+### Carrera de Ingeniería Ambiental / Informática  
 **Universidad Peruana Cayetano Heredia**
 
 <p align="center">
