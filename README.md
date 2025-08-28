@@ -66,4 +66,4 @@ Como **Equipo 04 - UPCH**, asumimos el compromiso de usar el **diseño, la innov
 
 ---
 
-✍️ *Equipo 04 - UPCH*  
+✍️ *Equipo 08- UPCH*  
