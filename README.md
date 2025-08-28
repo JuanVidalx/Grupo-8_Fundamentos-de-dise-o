@@ -31,15 +31,16 @@ Esto implica:
 
 ---
 
-## 👥 Integrantes del Equipo  
+## ​ Integrantes del Equipo  
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-|  | **Paola Andrea Centeno Bazan** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/13ed4dd149d33d9869cd42e8edc51d79106f2af4/Recursos-Imagenes/WhatsApp%20Image%202025-08-28%20at%2010.18.28%20AM.jpeg?raw=true" width="90"/> | **Paola Andrea Centeno Bazan** | Líder del equipo | Innovación social, sostenibilidad |
 |  | **Mónica Cristina Huaman Bernal** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/fb3ef094700a99c9b161483893bc642a32594a44/Recursos-Imagenes/WhatsApp%20Image%202025-08-27%20at%2011.44.49%20AM.jpeg?raw=true" width="90"/> | **Carlos Enriquez Mantilla Aguila** | Diseñador | Diseño de prototipos, creatividad aplicada |
 | <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/af01f79ad601a50ee33c7d68101d8a9a04c1bff6/Recursos-Imagenes/Pi7_Passport_Photo%20(2).jpeg?raw=true" width="90"/> | **Jhosselyn Dayanna Enriquez Aliaga** | Encargada de documentación | Comunicación científica, redacción técnica |
-|  | **Juan Vidal Berrocal Ccapcha** | Programador - Modelador | Programación, análisis de datos, simulación |
+| <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/0efd898a23eb645dd58e8f8f615043b36fa86868/Recursos-Imagenes/WhatsApp%20Image%202025-08-28%20at%2010.28.51%20AM.jpeg?raw=true" width="90"/> | **Juan Vidal Berrocal Ccapcha** | Programador - Modelador | Programación, análisis de datos, simulación |
+
 
 
 
