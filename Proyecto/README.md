@@ -1,3 +1,17 @@
+<h1 align="center">🌍 <strong>EQUIPO 08 - Fundamentos de Diseño 2025-2</strong></h1>
+
+<p align="center">
+  <strong>Carrera de Ingeniería Ambiental e Ingeniería Informática</strong><br>
+  <em>Universidad Peruana Cayetano Heredia</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=228B22&center=true&vCenter=true&width=950&lines=♻️+Producción+y+Consumo+Responsables;💡+Innovación+para+un+futuro+sostenible;🤝+Trabajo+en+equipo+y+responsabilidad+social" alt="Animación introductoria">
+</p>
+
+---
 # 🌍 Problemática  
 
 La producción de hortalizas como la lechuga en contextos urbanos y periurbanos presenta múltiples desafíos:  
