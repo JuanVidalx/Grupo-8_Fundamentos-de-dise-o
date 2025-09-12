@@ -60,6 +60,6 @@ Este sistema busca contribuir a la **ODS 12 – Producción y Consumo Responsabl
   hortalizas y fomentando un consumo más responsable. 
 
 <p align="center">
-  <img src="https://github.com/JuanVidalx/Grupo-4_Fundamentos-de-dise-o/blob/05fad9449a39b9e1cc774faa3228613bc974876a/ods12.jpg" width="220" alt="ODS 12">
+  <img src="https://github.com/JuanVidalx/Grupo-4_Fundamentos-de-dise-o/blob/05fad9449a39b9e1cc774faa3228613bc974876a/ods12.jpg" width="420" alt="ODS 12">
 </p>
 
