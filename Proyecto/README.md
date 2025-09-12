@@ -52,6 +52,14 @@ Este sistema busca contribuir a la **ODS 12 – Producción y Consumo Responsabl
   Diseñar el invernadero como una estructura **modular y transportable**, capaz de adaptarse desde un espacio doméstico hasta huertos comunitarios, fomentando la **agricultura urbana responsable** [5].  
 
 ---
+## 🌍 *ODS Relacionadas*
+
+- *ODS 12 – Producción y Consumo Responsables*  
+  Promueve el *autoabastecimiento sostenible* y el uso eficiente de recursos, reduciendo la huella ambiental asociada al transporte y distribución de hortalizas y fomentando un consumo más responsable.
+
+<p align="center">
+  <img src="https://github.com/JuanVidalx/Grupo-4_Fundamentos-de-dise-o/blob/05fad9449a39b9e1cc774faa3228613bc974876a/ods12.jpg" width="42%" alt="ODS 12">
+</p>
 
 # 📚 Referencias  
 
