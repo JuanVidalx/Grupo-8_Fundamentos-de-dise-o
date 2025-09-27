@@ -10,7 +10,6 @@ Somos el **Equipo 08** del curso **Fundamentos de Diseño 2025-2**, conformado p
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
 - ODS 12: Garantizar modalidades de consumo y producción sostenibles
 
 
@@ -48,7 +47,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 El Perú es un país con una amplia diversidad agrícola, pero enfrenta grandes desafíos en el uso sostenible de recursos naturales, particularmente el agua. Según la FAO, más del **70% del agua dulce disponible en el país se destina al riego agrícola**, lo que coloca al sector como el principal consumidor de este recurso estratégico【FAO, 2021】. El escenario es aún más complejo debido al impacto del **cambio climático**, que altera los regímenes hídricos y aumenta la vulnerabilidad de la producción agrícola.  
 
-En este contexto, los cultivos en **campo abierto** presentan serias limitaciones. Por ejemplo, producir una sola lechuga puede requerir hasta **120 litros de agua**, además de depender de factores climáticos impredecibles y de la constante amenaza de plagas:contentReference[oaicite:0]{index=0}. Estas condiciones no solo reducen la eficiencia de la producción, sino que también afectan la **seguridad alimentaria** de comunidades que no logran un acceso constante a hortalizas frescas y nutritivas.  
+En este contexto, los cultivos en **campo abierto** presentan serias limitaciones. Por ejemplo, producir una sola lechuga puede requerir hasta **120 litros de agua**, además de depender de factores climáticos impredecibles y de la constante amenaza de plagas. Estas condiciones no solo reducen la eficiencia de la producción, sino que también afectan la **seguridad alimentaria** de comunidades que no logran un acceso constante a hortalizas frescas y nutritivas.  
 
 La problemática se agudiza en **zonas rurales y altoandinas**, donde la disponibilidad de alimentos frescos está condicionada por la distancia a los centros de abastecimiento y por el costo elevado del transporte. Esto genera brechas de nutrición y limita la capacidad de las familias para acceder a dietas balanceadas.  
 
