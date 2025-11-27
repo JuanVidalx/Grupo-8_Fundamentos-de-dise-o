@@ -70,18 +70,15 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 
 **Resumen:**  
 
-# PATENTES – TABLA GENERAL
+# LISTA DE EXIGENCIAS – COMPLETA
 
-| Título | Solicitante | Imagen | Resumen | CIP | Enlace |
-|--------|-------------|--------|---------|-----|--------|
+![Lista de exigencias 1](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/patente01.png)
 
-| **Sistema de cultivo hidropónico de plantas con luz artificial** | Shanghai Green Cube Agriculture Dev Co. Ltd. | ![Imagen sistema hidropónico 2](/mnt/data/3ef6adb6-aada-473f-8876-a9d1de089369.png) | El modelo de utilidad divulga un sistema de cultivo hidropónico con luz artificial. Consta de un marco de cultivo, un lecho de cultivo, un dispositivo de elevación y un panel LED móvil que se ajusta verticalmente según el crecimiento de la planta para asegurar la intensidad adecuada de iluminación. | A01G31/02 ; A01G31/06 ; A01G7/04 ; F21V21/16 ; F21V21/38 ; F21Y115/10 | https://worldwide.espacenet.com/patent/search/family/083435299/publication/CN217523511U |
+![Lista de exigencias 2](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/patente02.png)
 
-| **Sistema de cultivo hidropónico modular** | Sistemas de Hidrofila Inc.; Ewing Jesse | ![Imagen sistema hidropónico 3](/mnt/data/0b87d0ed-57c1-4441-8fd6-d13f05ca5dbb.png) | Sistema modular hidropónico que consiste en base modular, marco base, depósito de goteo, red hidropónica, soporte regulable, línea de nutrientes y válvula, maceta con aberturas y collarín de espuma. Facilita crecimiento radicular, oxigenación y montaje rápido. | A01G31/06 ; A01G9/02 ; A01G9/24 | https://worldwide.espacenet.com/patent/search/family/088420592/publication/WO2023205442A1 |
+![Lista de exigencias 3](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/patente03.png)
 
-| **Aparato hidropónico modular** | ONO Exponential Farming S.R.L. | ![Imagen sistema hidropónico 1](/mnt/data/073a86a6-50ed-4c55-9a35-600f5dab0632.png) | Sistema automatizado de cultivo hidropónico con estantes que contienen bandejas móviles, cada una iluminada con fuentes de luz específicas. Incluye sensores y actuadores que ajustan las condiciones ambientales para mantener valores óptimos en espacios reducidos. | A01G31/06 ; A01G9/14 ; A01G9/24 | https://worldwide.espacenet.com/patent/search/family/073038338/publication/US2024196821A1 |
-
-| **Método para cultivo de lechuga usando luz artificial y fotoperiodo** | Universidad Nacional de Gyeongsang IACF | ![Imagen sistema hidropónico 4](/mnt/data/5cbe4d23-40e6-4ce9-a5ed-9e9e8e6d29c9.png) | Método de cultivo en sistemas cerrados que define longitud de onda y fotoperiodo óptimos para maximizar la eficiencia del crecimiento de la lechuga bajo luz artificial. | A01G1/00 ; A01G7/04 ; F21S2/00 ; F21V33/00 | https://worldwide.espacenet.com/patent/search/family/049981937/publication/KR101386930B1 |
+![Lista de exigencias 4](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/patente04.png)
 
 
 
