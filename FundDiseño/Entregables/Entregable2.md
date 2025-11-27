@@ -95,6 +95,11 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 
 ![Caja Negra](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/caja_negra.png)
 
+# ESQUEMA DE FUNCIONES
+
+![Esquema de funciones](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/esquema_de_funciones.jpg)
+
+
 
 
 
