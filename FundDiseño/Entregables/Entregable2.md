@@ -70,7 +70,7 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 
 **Resumen:**  
 
-# LISTA DE EXIGENCIAS – COMPLETA
+# BUSQEUDA DE PATENTES
 
 ![Lista de exigencias 1](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/patente01.png)
 
