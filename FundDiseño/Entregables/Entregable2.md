@@ -99,6 +99,15 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 
 ![Esquema de funciones](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/esquema_de_funciones.jpg)
 
+# MATRIZ MORFOLÓGICA
+
+![Matriz morfológica](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/matriz_morfologica.png)
+
+# TABLA DE VALORACIÓN
+
+![Tabla de valoración](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/tabla_valoracion.png)
+
+
 
 
 
