@@ -8,6 +8,8 @@
 
 # PLANOS 2D
 
+## TAPA
 ![Plano tapa](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PLANOS/tapa.jpg)
 
+## CONTENEDOR
 ![Plano contenedor](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PLANOS/contenedor.jpg)
