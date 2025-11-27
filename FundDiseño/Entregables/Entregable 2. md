@@ -1,76 +1,112 @@
-BÚSQUEDA DE PATENTES
+# BUSQUEDA DE ARTÍCULOS CIENTÍFICOS
 
-TÍTULO  
-Sistema de cultivo hidropónico de plantas con luz artificial  
+---
 
-SOLICITANTE(S)  
-SHANGHAI GREEN CUBE AGRICULTURE  
-DEV CO. LTD.  
+## 1. Ali, A., Santoro, P., Ferrante, A., & Cocetta, G. (2024)  
+**Título:** Aplicaciones de LED continuos y pulsados en lechuga roja y verde (Lactuca sativa L. var. capitata) para evaluaciones de calidad y costo energético pre y poscosecha  
+**Revista:** Scientia Horticulturae, 338, 113785  
+**DOI:** https://doi.org/10.1016/j.scienta.2024.113785  
 
-FECHA DE PUBLICACIÓN  
-04/10/2022  
+### **Resumen**
+Este estudio analiza cómo distintos regímenes de iluminación LED (continua frente a pulsada)  
+afectan el crecimiento, la calidad y la conservación poscosecha de lechuga roja y verde, además  
+del impacto en el consumo energético.
 
-RESUMEN GRÁFICA / IMAGEN  
-El modelo de utilidad divulga un sistema de cultivo hidropónico con luz artificial, perteneciente al
-campo técnico del cultivo hidropónico. El dispositivo consta de un marco de cultivo, sobre el cual
-se dispone un lecho de cultivo y un dispositivo de elevación. Un panel de lámpara de crecimiento
-se dispone de forma móvil sobre el lado de cultivo de la planta, y una lámpara LED de
-crecimiento se instala en el lado del panel, orientado hacia la cara de cultivo de la planta. El
-dispositivo de elevación acciona el panel de lámpara de crecimiento en dirección vertical para
-ajustar la distancia de iluminación entre la lámpara LED de crecimiento y el lecho de cultivo. La
-intensidad de la iluminación se adapta al período de crecimiento de la planta, satisfaciendo así
-sus necesidades y facilitando su crecimiento.
+Se midieron parámetros como:  
+- biomasa  
+- contenido de sólidos solubles  
+- pigmentos  
+- firmeza  
+- gasto energético  
 
-CIP  
-A01G31/02 ; A01G31/06 ; A01G7/04 ; F21V21/16 ; F21V21/38 ; F21Y115/10  
+Los resultados indican que la iluminación **pulsada** mantiene rendimientos de calidad similares  
+a la continua, pero con **ahorro considerable de energía eléctrica**.  
+Esto muestra que la luz pulsada es eficiente y sostenible, reduciendo costos sin comprometer calidad.
 
-LINK  
-https://worldwide.espacenet.com/patent/search/family/083435299/publication/CN217523511U?q=pn%3DCN217523511U
-TÍTULO  
-SISTEMA DE CULTIVO HIDROPÓNICO MODULAR  
+---
 
-SOLICITANTE(S)  
-SISTEMAS DE HIDROFILA  
-INCORPORADOS [CA]; EWING JESSE [CA]  
-SISTEMAS DE HIDROFILA INCORPORADOS; EWING, Jesse  
+## 2. Boros, I. F., Székely, G., Balázs, L., Csambalik, L., & Sipos, L. (2023)  
+**Título:** Efectos de la iluminación LED en lechuga (Lactuca sativa L.) en sistemas PFAL: una revisión  
+**Revista:** Scientia Horticulturae, 321, 112351  
+**DOI:** https://doi.org/10.1016/j.scienta.2023.112351  
 
-FECHA DE PUBLICACIÓN :  
-21 de abril de 2023  
+### **Resumen**
+Revisión sobre iluminación LED en lechuga cultivada en **sistemas PFAL** (plant factories with artificial lighting).  
+Analiza factores como:  
+- proporción de espectros (rojo, azul, verde, UV, IR)  
+- intensidad lumínica  
+- fotoperiodo  
+- crecimiento  
+- calidad nutricional  
+- eficiencia energética  
 
-RESUMEN GRÁFICA / IMAGEN  
-Un sistema modular de cultivo hidropónico que incluye al menos una base modular , un marco
-base, un depósito de goteo y una red hidropónica . El sistema también incluye una red de soporte
-para plantas con patas ajustables, un brazo de soporte y una cuerda elástica. Además, la red
-hidropónica incluye una conexión para la línea de nutrientes, un sistema de suministro de
-nutrientes y una válvula para controlar el flujo de nutrientes. También incluye una maceta con
-aberturas para el crecimiento de las raíces, un recipiente interior y un collarín de espuma
-transpirable. El sistema está diseñado para facilitar el crecimiento de las raíces, el suministro de
-nutrientes y la absorción de oxígeno, y sus componentes son fáciles de montar y desmontar.
+Conclusión clave:  
+No existe un espectro universal ideal; depende de la variedad, etapa de crecimiento y objetivos.  
+La optimización del espectro es crucial para equilibrio entre calidad, rendimiento y costos.
 
-CIP  
-A01G31/06; A01G9/02; A01G9/24;  
+---
 
-LINK  
-https://worldwide.espacenet.com/patent/search/family/088420592/publication/WO2023205442A1?q=nftxt%20%3D%20%22Modular%22%20AND%20nftxt%20%3D%20%22hydroponic%22%20AND%20nftxt%20%3D%20%22system%22%20AND%20cl%20%3D%20%22A01G%22
-TÍTULO  
-APARATO HIDROPÓNICO MODULAR  
+## 3. Lu, L., Chen, Z., Li, Y., Chen, Y., Liu, Y., & Chen, Y. (2020)  
+**Título:** Thermal analysis of a portable DSSC mini greenhouse for botanical drugs cultivation  
+**Revista:** Energy Reports, 6, 238–253  
+**DOI:** https://doi.org/10.1016/j.egyr.2019.12.025  
 
-SOLICITANTE(S)  
-ONO EXPONENTIAL FARMING S R L  
-[IT] ONO EXPONENTIAL FARMING S.R.L.  
+### **Resumen**
+Propone un invernadero portátil con **paneles solares DSSC semitransparentes**, destinado al cultivo  
+de plantas medicinales en condiciones controladas.
 
-FECHA DE PUBLICACIÓN  
-2024-06-20  
+Incluye:  
+- análisis térmico  
+- ganancia y pérdida de calor  
+- generación eléctrica  
+- paso de luz suficiente para fotosíntesis  
 
-RESUMEN GRÁFICA / IMAGEN  
-Se describe un sistema modular para el cultivo hidropónico automatizado ubicado en estantes
-con múltiples bandejas móviles para hortalizas, cada una iluminada con fuentes de luz
-específicas. El sistema incluye sensores que monitorean parámetros biológicos del cultivo y
-actuadores que ajustan automáticamente las condiciones ambientales para mantener los valores
-óptimos de crecimiento, permitiendo un control preciso y eficiente en espacios reducidos.
+Conclusión:  
+El sistema permite luz + energía simultáneamente, aunque con eficiencia moderada que requiere mejoras.  
+Enfoque innovador que integra energía, control térmico y producción agrícola.
 
-CIP  
-A01G31/06; A01G9/14; A01G9/24  
+---
 
-LINK  
-https://worldwide.espacenet.com/patent/search/family/073038338/publication/US2024196821A1?q=nftxt%20%3D%20%22Modular%22%20AND%20nftxt%20%3D%20%22hydroponic%22%20AND%20nftxt%20%3D%20%22system%22%20AND%20cl%20%3D%20%22A01G%22
+## 4. Yang, T., Samarakoon, U., & Altland, J. (2024)  
+**Título:** Growth, phytochemical concentration, nutrient uptake, and water consumption of butterhead lettuce in response to hydroponic system design and growing season  
+**Revista:** Scientia Horticulturae, 332, 113201  
+**DOI:** https://doi.org/10.1016/j.scienta.2024.113201  
+
+### **Resumen**
+Analiza cómo el **diseño del sistema hidropónico** y la **temporada de cultivo** afectan:  
+- crecimiento  
+- concentración de fitoquímicos  
+- absorción de nutrientes  
+- consumo de agua  
+
+Compara múltiples sistemas y temporadas.  
+Conclusión:  
+Algunas combinaciones mejoran la eficiencia del uso de agua y nutrientes,  
+aumentando compuestos bioactivos beneficiosos.
+
+Sugiere elegir el sistema hidropónico según la estación para mejorar rendimiento y calidad.
+
+---
+
+## 5. Nugroho, A. P., Rahman, M. A., Santoso, D. R., Yuliani, A., Putri, R. M., & Widodo, K. H. (2025)  
+**Título:** Development of a low-cost thermal imaging system for water stress monitoring in indoor farming  
+**Revista:** Smart Agricultural Technology, 11, 101048  
+**DOI:** https://doi.org/10.1016/j.atech.2025.101048  
+
+### **Resumen**
+Desarrolla un sistema económico de **imágenes térmicas** para detectar estrés hídrico en cultivos  
+de agricultura interior.
+
+Tecnología usada:  
+- cámaras térmicas de bajo costo  
+- sensores ambientales integrados  
+- detección de aumento de temperatura foliar por menor transpiración  
+
+Beneficios:  
+- monitoreo más confiable  
+- optimización del riego  
+- reducción del desperdicio de agua  
+- mejora en eficiencia del manejo agrícola  
+- agricultura más sostenible en sistemas cerrados  
+
+---
