@@ -1,0 +1,136 @@
+#include <WiFi.h>
+#include <WebServer.h>
+#include "DHT.h"
+
+#define DHTPIN 4
+#define DHTTYPE DHT22
+DHT dht(DHTPIN, DHTTYPE);
+
+// Pines sensores
+#define LDR_PIN 34
+#define TRIG 13
+#define ECHO 12
+
+// Pines actuadores
+#define MOTOR 15
+#define LED_PIN 17
+#define FAN 14
+
+// Servidor Web
+WebServer server(80);
+
+// ====================== WiFi ======================
+const char* ssid = "TU_WIFI";
+const char* password = "TU_PASSWORD";
+
+// ==================================================
+// FUNCIONES DE LECTURA DE SENSORES
+// ==================================================
+
+float getDistance() {
+  long duration;
+  digitalWrite(TRIG, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIG, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG, LOW);
+
+  duration = pulseIn(ECHO, HIGH);
+  float distance = duration * 0.034 / 2; // distancia en cm
+  return distance;
+}
+
+// ==================================================
+// MANEJO DEL SERVIDOR
+// ==================================================
+
+void handleData() {
+  float temp = dht.readTemperature();
+  float hum = dht.readHumidity();
+  float nivel = getDistance();
+  int lux = analogRead(LDR_PIN);
+
+  String json = "{";
+  json += "\"temperatura\":" + String(temp) + ",";
+  json += "\"humedad\":" + String(hum) + ",";
+  json += "\"nivel\":" + String(nivel) + ",";
+  json += "\"lux\":" + String(lux);
+  json += "}";
+
+  server.send(200, "application/json", json);
+}
+
+// Actualizar LED desde App Inventor
+void handleLED() {
+  if (server.hasArg("valor")) {
+    int intensidad = server.arg("valor").toInt();
+    intensidad = constrain(intensidad, 0, 255);
+    ledcWrite(0, intensidad);
+    server.send(200, "text/plain", "OK");
+  }
+}
+
+// Activar motor
+void handleMotor() {
+  digitalWrite(MOTOR, HIGH);
+  server.send(200, "text/plain", "Motor ON");
+}
+
+// Apagar motor
+void handleMotorOff() {
+  digitalWrite(MOTOR, LOW);
+  server.send(200, "text/plain", "Motor OFF");
+}
+
+// Ventilador
+void handleFan() {
+  digitalWrite(FAN, HIGH);
+  server.send(200, "text/plain", "Fan ON");
+}
+
+void handleFanOff() {
+  digitalWrite(FAN, LOW);
+  server.send(200, "text/plain", "Fan OFF");
+}
+
+void setup() {
+  Serial.begin(115200);
+
+  // Pines
+  pinMode(TRIG, OUTPUT);
+  pinMode(ECHO, INPUT);
+  pinMode(MOTOR, OUTPUT);
+  pinMode(LED_PIN, OUTPUT);
+  pinMode(FAN, OUTPUT);
+
+  dht.begin();
+
+  // PWM para LED
+  ledcSetup(0, 5000, 8);
+  ledcAttachPin(LED_PIN, 0);
+
+  // Conexión WiFi
+  WiFi.begin(ssid, password);
+  Serial.print("Conectando a WiFi...");
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(".");
+  }
+  Serial.println("\nWiFi conectado");
+  Serial.print("IP: ");
+  Serial.println(WiFi.localIP());
+
+  // Rutas del servidor (como App Inventor espera)
+  server.on("/datos", handleData);
+  server.on("/led", handleLED);
+  server.on("/motor_on", handleMotor);
+  server.on("/motor_off", handleMotorOff);
+  server.on("/fan_on", handleFan);
+  server.on("/fan_off", handleFanOff);
+
+  server.begin();
+}
+
+void loop() {
+  server.handleClient();
+}
