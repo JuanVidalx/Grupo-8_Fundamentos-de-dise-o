@@ -91,6 +91,11 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 
 | **Indoor Greenhouse Seed Germination Cabinet** | Gabinete compacto para germinar semillas en interiores. Su cubierta transparente mantiene humedad y temperatura, es portátil y fácil de montar. Ideal para crear un microclima controlado. | ![P33](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/p33.png) | [Amazon](https://www.amazon.com/-/es/Invernadero-interior-gabinete-portátil-semillas/dp/B0F674D5PK) |
 
+# CAJA NEGRA
+
+![Caja Negra](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/caja_negra.png)
+
+
 
 
 
