@@ -84,3 +84,87 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 
 
 
+
+
+
+
+
+# LISTA DE EXIGENCIAS  
+**Tabla 1: Lista de Exigencias**  
+Páginas: 5  
+Edición: Rev. 2  
+
+**PROYECTO:**  
+Invernadero Transportable de Lechuga en un Sistema Cerrado con Iluminación LED  
+
+**Fecha:** 25/09/2025  
+**Cliente:** Universidad Peruana Cayetano Heredia  
+**Elaborado por:** J.B., J.E., C.M., P.C., M.H.
+
+---
+
+| Fecha | Tipo | Categoría | Descripción | Responsable |
+|-------|------|-----------|-------------|-------------|
+
+| 25/09/25 | E | Función Principal / Secundaria | **Función Principal:** Cultivar lechuga en sistema hidropónico DWC dentro de un invernadero cerrado, utilizando sensores inteligentes para monitorear solución nutritiva, nivel de agua, temperatura, humedad e iluminación.  
+**Funciones secundarias:**  
+• Controlar temperatura, humedad, nivel de agua y solución nutritiva.  
+• Regular iluminación LED (intensidad y fotoperiodo).  
+• Optimizar consumo de agua y energía.  
+• Facilitar portabilidad y mantenimiento. | J.B., J.E., C.M., P.C. |
+
+| 08/11/25 | E | Geometría | El prototipo del invernadero (bandejas DWC, LEDs, paneles solares e interfaz) tendrá dimensiones de **50 × 50 × 30 cm**, capacidad para **4–6 plantas** y movilidad mediante ruedas y tirador. | J.E. |
+
+| 08/09/25 | E | Cinemática | La recirculación del agua asegura contacto continuo con raíces y aireación constante. El caudal controlado evita estancamientos y favorece absorción de nutrientes. | J.E. |
+
+| 09/09/25 | E | Fuerzas | No se aplican fuerzas mecánicas significativas. La integridad estructural se mantiene mediante soportes ajustables y brazos de sujeción. Basado en Sistemas de Hidrofila Inc. & Ewing (2023). | J.E. |
+
+| 10/09/25 | E | Energía | La iluminación LED se regula en intensidad y tiempo (fotoperiodo). Uso eficiente mediante sensores inteligentes (Gyeongsang 2014; Shanghai Green Cube 2022; ONO 2024). | J.E. |
+
+| 10/09/25 | E | Materia | **Materia de ingreso:** plántulas de lechuga para cultivo DWC modular.  
+**Materia de salida:** lechugas frescas con trazabilidad ambiental (iluminación, humedad, temperatura, CE, etc.). | C.M. |
+
+| 26/09/25 | E | Señales | **Señales de entrada:**  
+• Encendido  
+• Inicio  
+• Parada  
+**Señales de salida:**  
+• Stand-by  
+• Estado (temperatura)  
+• Emergencia  
+• Fin de ciclo (25–30 días) | C.M. |
+
+| 11/09/25 | E | Control | El sistema debe ser estable en todas las etapas del cultivo. Se controla flujo del agua, sustrato y se monitorea crecimiento. | C.M. |
+
+| 11/09/25 | E | Electrónico (Hardware) | Se empleará un microcontrolador compatible con sensores, LEDs y subsistemas. | C.M. |
+
+| 10/09/25 | E | Software | Software de código abierto para gestión de sensores, actuadores e interfaz web. | C.M. |
+
+| 11/09/25 | E | Comunicaciones | Comunicación por cableado directo entre sensores, actuadores y controlador. Debe evitar interferencia y garantizar interoperabilidad. | P.C. |
+
+| 10/09/25 | E | Seguridad | Uso de materiales grado alimenticio (PVC-U, acero 304/316). Normas IEC 60335, ISO 22000. Botón de emergencia, fusibles y diseño ergonómico. Ley 29783. | P.C. |
+
+| 11/09/25 | E | Ergonomía | Peso liviano (3–5 kg). Asas y ruedas para transporte. Controles accesibles. Cumple ISO 7250. | P.C. |
+
+| 11/09/25 | E | Fabricación | Materiales disponibles localmente. Estructura en PVC-U, policarbonato y acero inoxidable 304/316. Componentes electrónicos importados o nacionales (5–15 días). Cumple DIGESA 007-98-SA. | P.C. |
+
+| 11/09/25 | E | Control de calidad | Verificar dimensiones, materiales, funcionamiento del sistema DWC, LED y sensores. | P.C. |
+
+| 10/09/25 | E | Montaje | Ensamblaje sin herramientas especializadas. Armado y sellado adecuado para evitar fugas. Compatible con paneles DSSC o red eléctrica. | P.C. |
+
+| 11/09/25 | E | Transporte | Peso 3–5 kg, tamaño 50×50×30 cm. Fácil transporte manual. | J.B. |
+
+| 11/09/25 | D | Uso | Funciona bajo variaciones de clima y humedad. Adecuado hasta 3500 msnm. Portátil para zonas rurales/urbanas. | J.B. |
+
+| 11/09/25 | E | Mantenimiento | Acceso sencillo para limpieza, revisión de bomba, sustitución de sensores y LEDs. Paneles solares reemplazables. | J.B. |
+
+|  —  | E | Costos | Presupuesto estimado: **S/. 4000–4500**, incluyendo materiales, bombas, LEDs, sensores y estructura modular. | J.B. |
+
+| 10/09/25 | E | Plazos | Proyecto inicia: **27 de septiembre**  
+Finaliza: **1 de diciembre 2025 – 8 a.m.**  
+Aproximadamente **138 horas de trabajo**. | J.B. |
+
+
+
+
+
