@@ -88,82 +88,177 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 
 
 
+============================================================
+                 LISTA DE EXIGENCIAS  
+Proyecto: Invernadero Transportable de Lechuga  
+Cliente: Universidad Peruana Cayetano Heredia  
+Fecha: 25/09/2025 — Revisión: 2  
+Elaborado por: J.B., J.E., C.M., P.C., M.H.
+============================================================
 
-# LISTA DE EXIGENCIAS  
-**Tabla 1: Lista de Exigencias**  
-Páginas: 5  
-Edición: Rev. 2  
+[1] FUNCIÓN PRINCIPAL  
+Cultivar lechuga en sistema hidropónico DWC dentro de un invernadero cerrado,
+utilizando sensores inteligentes para monitorear solución nutritiva, nivel de agua, 
+temperatura, humedad e iluminación.
 
-**PROYECTO:**  
-Invernadero Transportable de Lechuga en un Sistema Cerrado con Iluminación LED  
+Funciones secundarias:
+- Control de temperatura, humedad y nivel de agua  
+- Regulación LED (intensidad y fotoperiodo)  
+- Optimización de agua y energía  
+- Fácil portabilidad y mantenimiento  
 
-**Fecha:** 25/09/2025  
-**Cliente:** Universidad Peruana Cayetano Heredia  
-**Elaborado por:** J.B., J.E., C.M., P.C., M.H.
+Responsable: J.B., J.E., C.M., P.C.
 
----
+------------------------------------------------------------
 
-| Fecha | Tipo | Categoría | Descripción | Responsable |
-|-------|------|-----------|-------------|-------------|
+[2] GEOMETRÍA  
+Dimensiones del prototipo: 50 × 50 × 30 cm  
+Capacidad: 4–6 plantas  
+Incluye ruedas y tirador para transporte.
 
-| 25/09/25 | E | Función Principal / Secundaria | **Función Principal:** Cultivar lechuga en sistema hidropónico DWC dentro de un invernadero cerrado, utilizando sensores inteligentes para monitorear solución nutritiva, nivel de agua, temperatura, humedad e iluminación.  
-**Funciones secundarias:**  
-• Controlar temperatura, humedad, nivel de agua y solución nutritiva.  
-• Regular iluminación LED (intensidad y fotoperiodo).  
-• Optimizar consumo de agua y energía.  
-• Facilitar portabilidad y mantenimiento. | J.B., J.E., C.M., P.C. |
+Responsable: J.E.
 
-| 08/11/25 | E | Geometría | El prototipo del invernadero (bandejas DWC, LEDs, paneles solares e interfaz) tendrá dimensiones de **50 × 50 × 30 cm**, capacidad para **4–6 plantas** y movilidad mediante ruedas y tirador. | J.E. |
+------------------------------------------------------------
 
-| 08/09/25 | E | Cinemática | La recirculación del agua asegura contacto continuo con raíces y aireación constante. El caudal controlado evita estancamientos y favorece absorción de nutrientes. | J.E. |
+[3] CINEMÁTICA  
+Recirculación constante del agua para mantener contacto con raíces, aireación
+continua y caudal controlado para evitar estancamiento.
 
-| 09/09/25 | E | Fuerzas | No se aplican fuerzas mecánicas significativas. La integridad estructural se mantiene mediante soportes ajustables y brazos de sujeción. Basado en Sistemas de Hidrofila Inc. & Ewing (2023). | J.E. |
+Responsable: J.E.
 
-| 10/09/25 | E | Energía | La iluminación LED se regula en intensidad y tiempo (fotoperiodo). Uso eficiente mediante sensores inteligentes (Gyeongsang 2014; Shanghai Green Cube 2022; ONO 2024). | J.E. |
+------------------------------------------------------------
 
-| 10/09/25 | E | Materia | **Materia de ingreso:** plántulas de lechuga para cultivo DWC modular.  
-**Materia de salida:** lechugas frescas con trazabilidad ambiental (iluminación, humedad, temperatura, CE, etc.). | C.M. |
+[4] FUERZAS  
+No hay fuerzas mecánicas significativas. Se garantiza estabilidad mediante soportes
+ajustables y sujeciones.
 
-| 26/09/25 | E | Señales | **Señales de entrada:**  
-• Encendido  
-• Inicio  
-• Parada  
-**Señales de salida:**  
-• Stand-by  
-• Estado (temperatura)  
-• Emergencia  
-• Fin de ciclo (25–30 días) | C.M. |
+Responsable: J.E.
 
-| 11/09/25 | E | Control | El sistema debe ser estable en todas las etapas del cultivo. Se controla flujo del agua, sustrato y se monitorea crecimiento. | C.M. |
+------------------------------------------------------------
 
-| 11/09/25 | E | Electrónico (Hardware) | Se empleará un microcontrolador compatible con sensores, LEDs y subsistemas. | C.M. |
+[5] ENERGÍA  
+Iluminación LED ajustable en intensidad y tiempo. Uso eficiente basado en sensores.
 
-| 10/09/25 | E | Software | Software de código abierto para gestión de sensores, actuadores e interfaz web. | C.M. |
+Responsable: J.E.
 
-| 11/09/25 | E | Comunicaciones | Comunicación por cableado directo entre sensores, actuadores y controlador. Debe evitar interferencia y garantizar interoperabilidad. | P.C. |
+------------------------------------------------------------
 
-| 10/09/25 | E | Seguridad | Uso de materiales grado alimenticio (PVC-U, acero 304/316). Normas IEC 60335, ISO 22000. Botón de emergencia, fusibles y diseño ergonómico. Ley 29783. | P.C. |
+[6] MATERIA  
+Materia de ingreso: plántulas para DWC  
+Materia de salida: lechuga con trazabilidad ambiental
 
-| 11/09/25 | E | Ergonomía | Peso liviano (3–5 kg). Asas y ruedas para transporte. Controles accesibles. Cumple ISO 7250. | P.C. |
+Responsable: C.M.
 
-| 11/09/25 | E | Fabricación | Materiales disponibles localmente. Estructura en PVC-U, policarbonato y acero inoxidable 304/316. Componentes electrónicos importados o nacionales (5–15 días). Cumple DIGESA 007-98-SA. | P.C. |
+------------------------------------------------------------
 
-| 11/09/25 | E | Control de calidad | Verificar dimensiones, materiales, funcionamiento del sistema DWC, LED y sensores. | P.C. |
+[7] SEÑALES  
+Entrada: Encendido, inicio, parada  
+Salida: Stand-by, estado (temperatura), emergencia, fin de ciclo (25–30 días)
 
-| 10/09/25 | E | Montaje | Ensamblaje sin herramientas especializadas. Armado y sellado adecuado para evitar fugas. Compatible con paneles DSSC o red eléctrica. | P.C. |
+Responsable: C.M.
 
-| 11/09/25 | E | Transporte | Peso 3–5 kg, tamaño 50×50×30 cm. Fácil transporte manual. | J.B. |
+------------------------------------------------------------
 
-| 11/09/25 | D | Uso | Funciona bajo variaciones de clima y humedad. Adecuado hasta 3500 msnm. Portátil para zonas rurales/urbanas. | J.B. |
+[8] CONTROL  
+El sistema mantiene estabilidad en cada etapa del cultivo, controla flujo de agua y
+monitorea crecimiento.
 
-| 11/09/25 | E | Mantenimiento | Acceso sencillo para limpieza, revisión de bomba, sustitución de sensores y LEDs. Paneles solares reemplazables. | J.B. |
+Responsable: C.M.
 
-|  —  | E | Costos | Presupuesto estimado: **S/. 4000–4500**, incluyendo materiales, bombas, LEDs, sensores y estructura modular. | J.B. |
+------------------------------------------------------------
 
-| 10/09/25 | E | Plazos | Proyecto inicia: **27 de septiembre**  
-Finaliza: **1 de diciembre 2025 – 8 a.m.**  
-Aproximadamente **138 horas de trabajo**. | J.B. |
+[9] HARDWARE  
+Microcontrolador con sensores, LED, actuadores y subsistemas.
 
+Responsable: C.M.
+
+------------------------------------------------------------
+
+[10] SOFTWARE  
+Código abierto, lectura de sensores, interfaz web.
+
+Responsable: C.M.
+
+------------------------------------------------------------
+
+[11] COMUNICACIONES  
+Cableado directo y confiable. Sin interferencias.
+
+Responsable: P.C.
+
+------------------------------------------------------------
+
+[12] SEGURIDAD  
+Materiales grado alimenticio, normas IEC 60335, botón de emergencia, fusibles.
+
+Responsable: P.C.
+
+------------------------------------------------------------
+
+[13] ERGONOMÍA  
+Peso 3–5 kg, asas, ruedas, controles accesibles.
+
+Responsable: P.C.
+
+------------------------------------------------------------
+
+[14] FABRICACIÓN  
+Materiales nacionales (PVC-U, policarbonato, acero), componentes electrónicos 5–15 días.
+
+Responsable: P.C.
+
+------------------------------------------------------------
+
+[15] CONTROL DE CALIDAD  
+Verificación de dimensiones, sensores, LEDs, higiene general.
+
+Responsable: P.C.
+
+------------------------------------------------------------
+
+[16] MONTAJE  
+Ensamblaje modular, sin herramientas especializadas. Sellado para evitar fugas.
+
+Responsable: P.C.
+
+------------------------------------------------------------
+
+[17] TRANSPORTE  
+Peso ligero (3–5 kg). Fácil traslado manual.
+
+Responsable: J.B.
+
+------------------------------------------------------------
+
+[18] USO  
+Funciona hasta 3500 msnm. Apto para zonas rurales/urbanas.
+
+Responsable: J.B.
+
+------------------------------------------------------------
+
+[19] MANTENIMIENTO  
+Acceso fácil a limpieza, revisión de bomba y reemplazo de sensores.
+
+Responsable: J.B.
+
+------------------------------------------------------------
+
+[20] COSTOS  
+Costo estimado: S/. 4000–4500.
+
+Responsable: J.B.
+
+------------------------------------------------------------
+
+[21] PLAZOS  
+Inicio: 27/09/2025  
+Fin: 01/12/2025 — 8 a.m.  
+Duración: ~138 horas
+
+Responsable: J.B.
+
+============================================================
 
 
 
