@@ -83,16 +83,16 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 
 
 
-# PRODUCTOS COMERCIALES
+## PRODUCTOS COMERCIALES
 
 | Título | Resumen | Imagen | Enlace |
 |--------|---------|--------|--------|
 
-| **DPROOTS Hydroponic Tower Growing System (30 pods, vertical)** | Dispositivo hidropónico vertical tipo torre. Permite cultivar hasta 30 plantas en poco espacio. Incluye bomba de agua con recirculación, tanque de 10 L, embudo plegable y módulos fáciles de ensamblar. Algunas versiones incorporan luz LED de espectro completo con temporizador, lo que acelera el crecimiento. Ideal para personas con espacio reducido que desean cultivar todo el año. | ![Producto 1](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/P1.png) | [Ver producto](https://www.amazon.com/DPROOTS-Hydroponic-Growing-System-Full-Spectrum/dp/B0FD6Y6RKD) |
+| **DPROOTS Hydroponic Tower Growing System** | Sistema hidropónico vertical para 30 plantas. Incluye bomba de recirculación, depósito de 10 L, módulos desmontables y medidor de nivel. Algunas versiones integran luz LED 360° y temporizador. Ideal para cultivar en espacios pequeños todo el año. | ![P1](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/P1.png) | [Amazon](https://www.amazon.com/DPROOTS-Hydroponic-Growing-System-Full-Spectrum/dp/B0FD6Y6RKD) |
 
-| **Meonum Mini Greenhouse with Grow Light** | Mini invernadero para interiores de 23.6 × 15.7 × 19.6 pulgadas. Cuenta con luz LED regulable de 15 W, temporizador y modos ajustables de iluminación. Su estructura de PVC y cubierta protectora permiten mantener temperatura y humedad ideales para germinación y cultivo básico. Fácil de montar, almacenar y trasladar. | ![Producto 2](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/P2.png) | [Ver producto](https://www.amazon.com/-/es/invernadero-interiores-pulgadas-regulables-temporizador/dp/B0CT3PVW3W) |
+| **Meonum Mini Greenhouse with Grow Light** | Mini-invernadero interior con luz LED regulable de 15 W, temporizador y modos de iluminación. Estructura de PVC y tela resistente. Ideal para germinar y cultivar plantas pequeñas en espacios reducidos. | ![P2](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/P2.png) | [Amazon](https://www.amazon.com/-/es/invernadero-interiores-pulgadas-regulables-temporizador/dp/B0CT3PVW3W) |
 
-| **Indoor Greenhouse Seed Germination Cabinet** | Gabinete compacto para germinación de semillas en interiores. Su cubierta transparente permite mantener humedad estable y observar el crecimiento sin perturbar a las plantas. Es portátil, ligero, fácil de ensamblar y desmontar, ideal para espacios reducidos o para iniciar cultivos desde cero. | ![Producto 3](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/P3.png) | [Ver producto](https://www.amazon.com/-/es/Invernadero-interior-gabinete-portátil-semillas/dp/B0F674D5PK) |
+| **Indoor Greenhouse Seed Germination Cabinet** | Gabinete compacto para germinar semillas en interiores. Su cubierta transparente mantiene humedad y temperatura, es portátil y fácil de montar. Ideal para crear un microclima controlado. | ![P3](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/P3.png) | [Amazon](https://www.amazon.com/-/es/Invernadero-interior-gabinete-portátil-semillas/dp/B0)_)
 
 
 
