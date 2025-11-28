@@ -330,19 +330,19 @@ Este enfoque contribuye a reducir el desperdicio de agua, mejorar la eficiencia 
 
 # CAJA NEGRA
 
-![Caja Negra](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/caja_negra.png)
+![Caja Negra](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/caja_negra_y_matriz/caja_negra.png)
 
 # ESQUEMA DE FUNCIONES
 
-![Esquema de funciones](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/esquema_de_funciones.jpg)
+![Esquema de funciones](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/caja_negra_y_matriz/esquema_de_funciones.jpg)
 
 # MATRIZ MORFOLÓGICA
 
-![Matriz morfológica](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/matriz_morfologica.png)
+![Matriz morfológica](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/caja_negra_y_matriz/matriz_morfologica.png)
 
 # TABLA DE VALORACIÓN
 
-![Tabla de valoración](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/tabla_valoracion.png)
+![Tabla de valoración](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/caja_negra_y_matriz/tabla_valoracion.png)
 
 
 
