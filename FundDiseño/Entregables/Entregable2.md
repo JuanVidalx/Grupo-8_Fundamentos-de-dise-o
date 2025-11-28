@@ -70,6 +70,10 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 **DOI:** https://doi.org/10.1016/j.atech.2025.101048
 
 **Resumen:**  
+
+
+## BUSQUEDA DE PATENTES 
+
 <table>
   <tr>
     <td><strong>TÍTULO</strong></td>
