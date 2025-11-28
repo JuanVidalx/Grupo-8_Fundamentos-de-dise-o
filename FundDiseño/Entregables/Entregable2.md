@@ -69,27 +69,45 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 **DOI:** https://doi.org/10.1016/j.atech.2025.101048
 
 **Resumen:**  
+<table>
+  <tr>
+    <td><strong>TÍTULO</strong></td>
+    <td colspan="3"><strong>SISTEMA DE CULTIVO HIDROPÓNICO DE PLANTAS CON LUZ ARTIFICIAL</strong></td>
+  </tr>
 
-<div style="border: 2px solid #000; padding: 15px; border-radius: 10px; width: 650px;">
+  <tr>
+    <td><strong>SOLICITANTE(S)</strong></td>
+    <td>SHANGHAI GREEN CUBE AGRICULTURE DEV CO. LTD.</td>
+    <td><strong>FECHA DE PUBLICACIÓN</strong></td>
+    <td>04/10/2022</td>
+  </tr>
 
-### **Sistema de cultivo hidropónico de plantas con luz artificial**
+  <tr>
+    <td><strong>RESUMEN</strong></td>
+    <td>
+      El modelo de utilidad divulga un sistema de cultivo hidropónico con luz artificial.  
+      El dispositivo consta de un marco de cultivo, un lecho de cultivo y un dispositivo de elevación.  
+      Un panel de lámpara de crecimiento se dispone de forma móvil sobre el lado de cultivo.  
+      El dispositivo de elevación ajusta la distancia de iluminación según el periodo de crecimiento de la planta.
+    </td>
+    <td><strong>GRÁFICA / IMAGEN</strong></td>
+    <td>
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/Patentes/Patente_01.png?raw=true" width="260">
+    </td>
+  </tr>
 
-**Solicitante(s):**  
-SHANGHAI GREEN CUBE AGRICULTURE DEV CO. LTD.
+  <tr>
+    <td><strong>CIP</strong></td>
+    <td colspan="3"><span style="color:red;"><strong>A01G31/02 ; A01G31/06 ; A01G7/04 ; F21V21/16 ; F21V21/38 ; F21Y115/10</strong></span></td>
+  </tr>
 
-**Fecha de publicación:** 04/10/2022
-
-**Resumen:**  
-El modelo de utilidad divulga un sistema de cultivo hidropónico con luz artificial, perteneciente al campo técnico del cultivo hidropónico. El dispositivo consta de un marco de cultivo, sobre el cual se dispone un lecho de cultivo y un dispositivo de elevación.  
-Un panel de lámpara de crecimiento se dispone de forma móvil sobre el lado de cultivo de la planta, y una lámpara LED de crecimiento se instala en el lado del panel, orientado hacia la cara de cultivo de la planta.  
-El dispositivo de elevación acciona el panel de lámpara de crecimiento en dirección vertical para ajustar la distancia de iluminación entre la lámpara LED de crecimiento y el lecho de cultivo. La intensidad de la iluminación se adapta al período de crecimiento de la planta, satisfaciendo así sus necesidades y facilitando su crecimiento.
-
-**CIP:** A01G31/02 ; A01G31/06 ; A01G7/04 ; F21V21/16 ; F21V21/38 ; F21Y115/10
-
-**Imagen:**  
-![Patente 01](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/Patentes/Patente_01.png?raw=true)
-
-</div>
+  <tr>
+    <td><strong>LINK</strong></td>
+    <td colspan="3">
+      https://worldwide.espacenet.com/patent/search/family/083435299/publication/CN217523511U
+    </td>
+  </tr>
+</table>
 
 
 
