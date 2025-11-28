@@ -69,6 +69,12 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 **DOI:** https://doi.org/10.1016/j.atech.2025.101048
 
 **Resumen:**  
+Este trabajo presenta el diseño y validación de un sistema económico de imágenes térmicas para la detección temprana de estrés hídrico en cultivos bajo agricultura interior. Utilizando cámaras térmicas de bajo costo integradas con sensores ambientales, el sistema permitió identificar incrementos en la temperatura foliar asociados a una menor transpiración causada por déficit hídrico.
+
+Los autores demostraron que la integración de datos térmicos y ambientales mejora la fiabilidad del monitoreo, ofreciendo una herramienta accesible para agricultores que buscan optimizar el riego en tiempo real.
+
+Este enfoque contribuye a reducir el desperdicio de agua, mejorar la eficiencia del manejo de cultivos y avanzar hacia prácticas agrícolas más sostenibles y rentables en sistemas cerrados.
+
 
 
 ## BUSQUEDA DE PATENTES 
