@@ -83,7 +83,6 @@ Este enfoque contribuye a reducir el desperdicio de agua, mejorar la eficiencia 
 
 # BUSQUEDA DE PATENTES
 
-*(Las tablas están ya ordenadas y listas para su uso)*
 
 ### PATENTE 01
 <table>
