@@ -60,6 +60,7 @@ Algunas combinaciones mejoran la eficiencia en el uso de agua y nutrientes y ele
 Propone seleccionar el sistema hidropónico según la temporada para maximizar eficiencia y calidad.
 
 ---
+## BUSQUEDA DE PATENTES 
 
 ### 5. Development of a low-cost thermal imaging system for water stress monitoring in indoor farming
 
@@ -109,6 +110,124 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><strong>TÍTULO</strong></td>
+    <td colspan="3"><strong>SISTEMA DE CULTIVO HIDROPÓNICO MODULAR</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>SOLICITANTE(S)</strong></td>
+    <td>SISTEMAS DE HIDROFILA INCORPORADOS [CA]<br>EWING JESSE [CA]</td>
+    <td><strong>FECHA DE PUBLICACIÓN</strong></td>
+    <td>21/04/2023</td>
+  </tr>
+
+  <tr>
+    <td><strong>RESUMEN</strong></td>
+    <td>
+      Un sistema modular de cultivo hidropónico con base modular, marco, depósito de goteo y red hidropónica.  
+      Incluye red de soporte, patas ajustables, brazo de soporte y cuerda elástica.  
+      Además incorpora un sistema de suministro de nutrientes, válvula de control y maceta con aberturas para crecimiento de raíces.  
+      Sus componentes son fáciles de montar y desmontar.
+    </td>
+    <td><strong>GRÁFICA / IMAGEN</strong></td>
+    <td>
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/Patentes/Patente_02.png?raw=true" width="260">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>CIP</strong></td>
+    <td colspan="3"><span style="color:red;"><strong>A01G31/06; A01G9/02; A01G9/24</strong></span></td>
+  </tr>
+
+  <tr>
+    <td><strong>LINK</strong></td>
+    <td colspan="3">
+      https://worldwide.espacenet.com/patent/search/family/088420592/publication/WO2023205442A1
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>TÍTULO</strong></td>
+    <td colspan="3"><strong>APARATO HIDROPÓNICO MODULAR</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>SOLICITANTE(S)</strong></td>
+    <td>ONO EXPONENTIAL FARMING S R L [IT]<br>ONO EXPONENTIAL FARMING S.R.L.</td>
+    <td><strong>FECHA DE PUBLICACIÓN</strong></td>
+    <td>2024-06-20</td>
+  </tr>
+
+  <tr>
+    <td><strong>RESUMEN</strong></td>
+    <td>
+      Sistema modular automatizado con estantes y bandejas móviles para hortalizas.  
+      Cada bandeja posee fuentes de luz específicas.  
+      Incorpora sensores y actuadores que regulan automáticamente las condiciones ambientales para un crecimiento óptimo.  
+      Ideal para espacios reducidos con control preciso.
+    </td>
+    <td><strong>GRÁFICA / IMAGEN</strong></td>
+    <td>
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/Patentes/Patente_03.png?raw=true" width="260">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>CIP</strong></td>
+    <td colspan="3"><span style="color:red;"><strong>A01G31/06; A01G9/14; A01G9/24</strong></span></td>
+  </tr>
+
+  <tr>
+    <td><strong>LINK</strong></td>
+    <td colspan="3">
+      https://worldwide.espacenet.com/patent/search/family/073038338/publication/US2024196821A1
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>TÍTULO</strong></td>
+    <td colspan="3"><strong>MÉTODO PARA EL CULTIVO DE LECHUGA UTILIZANDO FUENTE DE LUZ ARTIFICIAL Y SU FOTOPERIODO</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>SOLICITANTE(S)</strong></td>
+    <td>Universidad Nacional de Gyeongsang IACF [KR]<br>Fundación de Cooperación Industria-Académica</td>
+    <td><strong>FECHA DE PUBLICACIÓN</strong></td>
+    <td>21/04/2014</td>
+  </tr>
+
+  <tr>
+    <td><strong>RESUMEN</strong></td>
+    <td>
+      Método de cultivo de lechuga en sistema cerrado utilizando luz artificial.  
+      Proporciona una longitud de onda y fotoperiodo óptimos para el crecimiento eficiente.  
+      Mejora la productividad en sistemas de producción vegetal a gran escala.
+    </td>
+    <td><strong>GRÁFICA / IMAGEN</strong></td>
+    <td>
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/Patentes/Patente_04.png?raw=true" width="260">
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>CIP</strong></td>
+    <td colspan="3"><span style="color:red;"><strong>A01G1/00 ; A01G7/04 ; F21S2/00 ; F21V33/00</strong></span></td>
+  </tr>
+
+  <tr>
+    <td><strong>LINK</strong></td>
+    <td colspan="3">
+      https://worldwide.espacenet.com/patent/search/family/049981937/publication/KR101386930B1
+    </td>
+  </tr>
+</table>
 
 
 
