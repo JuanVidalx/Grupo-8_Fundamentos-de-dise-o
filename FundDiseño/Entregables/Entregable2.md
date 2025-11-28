@@ -60,7 +60,6 @@ Algunas combinaciones mejoran la eficiencia en el uso de agua y nutrientes y ele
 Propone seleccionar el sistema hidropónico según la temporada para maximizar eficiencia y calidad.
 
 ---
-## BUSQUEDA DE PATENTES 
 
 ### 5. Development of a low-cost thermal imaging system for water stress monitoring in indoor farming
 
