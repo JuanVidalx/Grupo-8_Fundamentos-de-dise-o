@@ -245,80 +245,82 @@ Este enfoque contribuye a reducir el desperdicio de agua, mejorar la eficiencia 
 <table>
   <tr>
     <td><strong>NOMBRE DEL PRODUCTO</strong></td>
-    <td colspan="3"><strong>DPROOTS Hydroponic Tower Growing System (30 pods, vertical)</strong></td>
+    <td><strong>DPROOTS Hydroponic Tower Growing System (30 pods, vertical)</strong></td>
   </tr>
 
   <tr>
     <td><strong>LINK</strong></td>
-    <td colspan="3">https://www.amazon.com/DPROOTS-Hydroponic-Growing-System-Full-Spectrum/dp/B0FD6Y6RKD</td>
+    <td>https://www.amazon.com/DPROOTS-Hydroponic-Growing-System-Full-Spectrum/dp/B0FD6Y6RKD</td>
   </tr>
 
   <tr>
     <td><strong>RESUMEN</strong></td>
     <td>
-      Este sistema hidropónico vertical permite cultivar hasta 30 plantas en un área reducida (1 pie cuadrado), con una altura entre 34 y 38 pulgadas.  
-      Incluye un sistema de circulación de agua con bomba que distribuye agua uniformemente a cada planta.  
-      Cada pod posee un reservorio de 30 mL capaz de mantener suministro por 12 horas en caso de interrupción temporal.  
-      El depósito de agua es de 10 L, incluye medidor de nivel y embudo plegable.  
-      Versiones avanzadas integran iluminación LED de espectro completo (≈290 LEDs) con temporizadores automáticos.  
-      Es una solución compacta y automatizada ideal para cultivo interior o exterior.
+      Sistema hidropónico vertical que permite cultivar hasta 30 plantas en 1 pie cuadrado.  
+      Integra circulación de agua con bomba, pods con reservorio de 30 mL, depósito de 10 L,  
+      medidor de nivel y embudo plegable.  
+      Versiones avanzadas añaden LED de espectro completo (≈290 LEDs) y temporizadores automáticos.  
+      Compacto, modular y apto para cultivo interior/exterior.
     </td>
-    <td><strong>IMAGEN</strong></td>
-    <td>
-      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC1.png?raw=true" width="230">
+  </tr>
+
+  <tr>
+    <td colspan="2" style="text-align:center;">
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC1.png?raw=true" width="100%">
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td><strong>NOMBRE DEL PRODUCTO</strong></td>
-    <td colspan="3"><strong>Meonum Mini Greenhouse with Grow Light</strong></td>
+    <td><strong>Meonum Mini Greenhouse with Grow Light</strong></td>
   </tr>
 
   <tr>
     <td><strong>LINK</strong></td>
-    <td colspan="3">https://www.amazon.com/-/es/invernadero-interiores-pulgadas-regulables-temporizador/dp/B0CT3PVW3W</td>
+    <td>https://www.amazon.com/-/es/invernadero-interiores-pulgadas-regulables-temporizador/dp/B0CT3PVW3W</td>
   </tr>
 
   <tr>
     <td><strong>RESUMEN</strong></td>
     <td>
-      Mini invernadero de interior con luz LED regulable, de dimensiones aproximadas 23.6 × 15.7 × 19.6 pulgadas.  
-      Ideal para iniciar plántulas en espacios reducidos.  
-      Incluye luz LED de 15 W con temporizador y 3 modos de color para adaptarse al crecimiento de las plantas.  
-      Fabricado con PVC y telas resistentes al agua, con puerta enrollable con cremallera.  
-      Fácil de montar, desmontar y almacenar.  
-      Es una solución práctica para cultivo interior con iluminación adicional.
+      Mini invernadero de interior de 23.6 × 15.7 × 19.6 pulgadas.  
+      Incluye luz LED de 15 W regulable, temporizador incorporado y 3 modos de color.  
+      Fabricado con PVC resistente al agua y puerta enrollable con cremallera.  
+      Compacto, fácil de montar y apto para iniciar plántulas en interiores.
     </td>
-    <td><strong>IMAGEN</strong></td>
-    <td>
-      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC2.png?raw=true" width="230">
+  </tr>
+
+  <tr>
+    <td colspan="2" style="text-align:center;">
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC2.png?raw=true" width="100%">
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td><strong>NOMBRE DEL PRODUCTO</strong></td>
-    <td colspan="3"><strong>Indoor Greenhouse Seed Germination Cabinet</strong></td>
+    <td><strong>Indoor Greenhouse Seed Germination Cabinet</strong></td>
   </tr>
 
   <tr>
     <td><strong>LINK</strong></td>
-    <td colspan="3">https://www.amazon.com/-/es/Invernadero-interior-gabinete-portátil-semillas/dp/B0F674D5PK</td>
+    <td>https://www.amazon.com/-/es/Invernadero-interior-gabinete-portátil-semillas/dp/B0F674D5PK</td>
   </tr>
 
   <tr>
     <td><strong>RESUMEN</strong></td>
     <td>
-      Invernadero interior portátil diseñado para germinar semillas en un entorno controlado.  
-      Posee estructura ligera, cubierta plástica transparente y mantiene humedad y temperatura estables.  
-      Permite observar el crecimiento sin abrir el gabinete.  
-      Fácil de montar, desmontar y trasladar.  
-      Es ideal para iniciar plántulas en espacios pequeños o interiores, garantizando un microclima adecuado.
+      Invernadero interior portátil diseñado para germinación de semillas.  
+      Su cubierta transparente mantiene humedad y temperatura estables.  
+      Ligero, fácil de montar/desmontar y transportar.  
+      Ideal para microclimas controlados en espacios reducidos.
     </td>
-    <td><strong>IMAGEN</strong></td>
-    <td>
-      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC3.png?raw=true" width="230">
+  </tr>
+
+  <tr>
+    <td colspan="2" style="text-align:center;">
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC3.png?raw=true" width="100%">
     </td>
   </tr>
 </table>
