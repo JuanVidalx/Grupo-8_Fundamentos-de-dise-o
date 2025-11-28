@@ -70,15 +70,27 @@ Propone seleccionar el sistema hidropónico según la temporada para maximizar e
 
 **Resumen:**  
 
-# BUSQUEDA DE PATENTES
+<div style="border: 2px solid #000; padding: 15px; border-radius: 10px; width: 650px;">
 
-![Lista de exigencias 1](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/patente01.png)
+### **Sistema de cultivo hidropónico de plantas con luz artificial**
 
-![Lista de exigencias 2](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/patente02.png)
+**Solicitante(s):**  
+SHANGHAI GREEN CUBE AGRICULTURE DEV CO. LTD.
 
-![Lista de exigencias 3](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/patente03.png)
+**Fecha de publicación:** 04/10/2022
 
-![Lista de exigencias 4](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/PATENTES/patente04.png)
+**Resumen:**  
+El modelo de utilidad divulga un sistema de cultivo hidropónico con luz artificial, perteneciente al campo técnico del cultivo hidropónico. El dispositivo consta de un marco de cultivo, sobre el cual se dispone un lecho de cultivo y un dispositivo de elevación.  
+Un panel de lámpara de crecimiento se dispone de forma móvil sobre el lado de cultivo de la planta, y una lámpara LED de crecimiento se instala en el lado del panel, orientado hacia la cara de cultivo de la planta.  
+El dispositivo de elevación acciona el panel de lámpara de crecimiento en dirección vertical para ajustar la distancia de iluminación entre la lámpara LED de crecimiento y el lecho de cultivo. La intensidad de la iluminación se adapta al período de crecimiento de la planta, satisfaciendo así sus necesidades y facilitando su crecimiento.
+
+**CIP:** A01G31/02 ; A01G31/06 ; A01G7/04 ; F21V21/16 ; F21V21/38 ; F21Y115/10
+
+**Imagen:**  
+![Patente 01](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/Patentes/Patente_01.png?raw=true)
+
+</div>
+
 
 
 
