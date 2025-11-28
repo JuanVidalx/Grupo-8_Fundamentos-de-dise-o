@@ -257,16 +257,16 @@ Este enfoque contribuye a reducir el desperdicio de agua, mejorar la eficiencia 
     <td><strong>RESUMEN</strong></td>
     <td>
       Sistema hidropónico vertical que permite cultivar hasta 30 plantas en 1 pie cuadrado.  
-      Integra circulación de agua con bomba, pods con reservorio de 30 mL, depósito de 10 L,  
-      medidor de nivel y embudo plegable.  
-      Versiones avanzadas añaden LED de espectro completo (≈290 LEDs) y temporizadores automáticos.  
+      Incluye bomba, pods con reservorio de 30 mL, depósito de 10 L, medidor de nivel y embudo plegable.  
+      Versiones avanzadas integran LED de espectro completo (≈290 LEDs) y temporizadores.  
       Compacto, modular y apto para cultivo interior/exterior.
     </td>
   </tr>
 
   <tr>
-    <td colspan="2" style="text-align:center;">
-      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC1.png?raw=true" width="100%">
+    <td><strong>IMAGEN</strong></td>
+    <td style="text-align:center;">
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC1.png?raw=true" width="320">
     </td>
   </tr>
 </table>
@@ -284,16 +284,17 @@ Este enfoque contribuye a reducir el desperdicio de agua, mejorar la eficiencia 
   <tr>
     <td><strong>RESUMEN</strong></td>
     <td>
-      Mini invernadero de interior de 23.6 × 15.7 × 19.6 pulgadas.  
-      Incluye luz LED de 15 W regulable, temporizador incorporado y 3 modos de color.  
-      Fabricado con PVC resistente al agua y puerta enrollable con cremallera.  
-      Compacto, fácil de montar y apto para iniciar plántulas en interiores.
+      Mini invernadero interior 23.6 × 15.7 × 19.6 pulgadas.  
+      Luz LED 15 W regulable, temporizador y 3 modos de color.  
+      Material PVC resistente al agua, puerta enrollable con cremallera.  
+      Compacto, fácil de montar y perfecto para plántulas.
     </td>
   </tr>
 
   <tr>
-    <td colspan="2" style="text-align:center;">
-      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC2.png?raw=true" width="100%">
+    <td><strong>IMAGEN</strong></td>
+    <td style="text-align:center;">
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC2.png?raw=true" width="320">
     </td>
   </tr>
 </table>
@@ -311,16 +312,17 @@ Este enfoque contribuye a reducir el desperdicio de agua, mejorar la eficiencia 
   <tr>
     <td><strong>RESUMEN</strong></td>
     <td>
-      Invernadero interior portátil diseñado para germinación de semillas.  
-      Su cubierta transparente mantiene humedad y temperatura estables.  
-      Ligero, fácil de montar/desmontar y transportar.  
-      Ideal para microclimas controlados en espacios reducidos.
+      Invernadero portátil para germinación.  
+      Cubierta transparente para mantener humedad y temperatura.  
+      Ligero, fácil de montar y transportar.  
+      Ideal para espacios reducidos e interiores.
     </td>
   </tr>
 
   <tr>
-    <td colspan="2" style="text-align:center;">
-      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC3.png?raw=true" width="100%">
+    <td><strong>IMAGEN</strong></td>
+    <td style="text-align:center;">
+      <img src="https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/productos_comerciales/PC3.png?raw=true" width="320">
     </td>
   </tr>
 </table>
