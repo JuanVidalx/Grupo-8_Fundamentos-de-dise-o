@@ -19,19 +19,21 @@
 ---
 
 # PLANOS DETALLADOS POR COMPONENTE
+# PLANOS DEL DHT22
 
 ## 📌 Contenedor con DHT22
 ![Plano contenedor DHT22](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/planos_bocetos/plano_contenedor_DHT22.png)
 
 ---
 
-## 📌 Tapa con LDR
-![Plano tapa LDR](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/planos_bocetos/Plano_tapa_ldr.png)
-
----
-
 ## 📌 Tapa con DHT22
 ![Plano tapa DHT22](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/planos_bocetos/Plano_tapa_DHT22.png)
+
+---
+# PLANOS DEL LDR
+
+## 📌 Tapa con LDR
+![Plano tapa LDR](https://github.com/JuanVidalx/Grupo-8_Fundamentos-de-dise-o/blob/main/Recursos-Imagenes/planos_bocetos/Plano_tapa_ldr.png)
 
 ---
 
