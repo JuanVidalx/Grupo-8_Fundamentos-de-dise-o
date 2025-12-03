@@ -1,136 +1,228 @@
+/*
+  Sistema ECOLETTUCE - Nodo de monitoreo (ESP32)
+
+  Flujo:
+    ESP32 -> ThingSpeak (canal 3191466)
+    + servidor HTTP local (/, /datos)
+
+  Sensores:
+    - DHT22  (temp / hum aire)
+    - HC-SR04 (nivel de agua en cm)
+    - LDR    (intensidad de luz)
+
+  Actuadores:
+    - MOTOR  (bomba / recirculación)
+    - LED_PIN (luces de cultivo)
+    - FAN     (ventilador)
+*/
+
 #include <WiFi.h>
 #include <WebServer.h>
+#include <HTTPClient.h>
 #include "DHT.h"
 
+// ====================== CONFIG SENSORES ======================
 #define DHTPIN 4
 #define DHTTYPE DHT22
 DHT dht(DHTPIN, DHTTYPE);
 
-// Pines sensores
-#define LDR_PIN 34
-#define TRIG 13
-#define ECHO 12
+#define LDR_PIN 34     // Entrada analógica para el LDR
+#define TRIG    13     // Trigger del ultrasonido
+#define ECHO    12     // Echo del ultrasonido
 
-// Pines actuadores
-#define MOTOR 15
-#define LED_PIN 17
-#define FAN 14
+// ====================== ACTUADORES ===========================
+#define MOTOR   15     // Bomba
+#define LED_PIN 27     // Luces de cultivo
+#define FAN     14     // Ventilador
 
-// Servidor Web
+// ======================= WIFI ================================
+const char* ssid     = "Juan Vidal ";     
+const char* password = "12345678";
+
+// ======================= SERVIDOR WEB ========================
 WebServer server(80);
 
-// ====================== WiFi ======================
-const char* ssid = "TU_WIFI";
-const char* password = "TU_PASSWORD";
+// ======================= THINGSPEAK ==========================
+const char* TS_SERVER = "http://api.thingspeak.com/update";
+const String TS_WRITE_API_KEY = "52HK8NX3JPG8E27T";
 
-// ==================================================
-// FUNCIONES DE LECTURA DE SENSORES
-// ==================================================
+// Tiempos
+const unsigned long INTERVALO_TS       = 20000; // Envío a ThingSpeak (>= 15 s)
+const unsigned long INTERVALO_LECTURA  = 2000;  // Lectura de sensores
 
-float getDistance() {
-  long duration;
+unsigned long ultimoEnvioTS        = 0;
+unsigned long ultimoMomentoLectura = 0;
+
+// ====================== VARIABLES GLOBALES ===================
+float g_temperatura = 0.0f;
+float g_humedad     = 0.0f;
+float g_nivel_cm    = -1.0f;
+int   g_lux         = 0;
+bool  g_tieneDatos  = false;
+
+// Nivel para activar motor
+const float NIVEL_ALTO_CM = 10.0f;
+
+// =============================================================
+// pulseIn seguro para el HC-SR04
+// =============================================================
+long safePulseIn(int pin, int state, long timeoutMicros) {
+  long start = micros();
+  while (digitalRead(pin) == state) { if (micros() - start > timeoutMicros) return 0; }
+  start = micros();
+  while (digitalRead(pin) != state) { if (micros() - start > timeoutMicros) return 0; }
+  start = micros();
+  while (digitalRead(pin) == state) { if (micros() - start > timeoutMicros) return 0; }
+  return micros() - start;
+}
+
+// =============================================================
+// SENSOR DISTANCIA (nivel de agua)
+// =============================================================
+float getDistanceCm() {
   digitalWrite(TRIG, LOW);
   delayMicroseconds(2);
   digitalWrite(TRIG, HIGH);
   delayMicroseconds(10);
   digitalWrite(TRIG, LOW);
-
-  duration = pulseIn(ECHO, HIGH);
-  float distance = duration * 0.034 / 2; // distancia en cm
-  return distance;
+  long duration = safePulseIn(ECHO, HIGH, 30000); // 30 ms
+  if(duration == 0) return -1.0f;
+  return duration * 0.034f / 2.0f;
 }
 
-// ==================================================
-// MANEJO DEL SERVIDOR
-// ==================================================
+// =============================================================
+// LECTURA DE SENSORES
+// =============================================================
+void leerSensores() {
+  float t = dht.readTemperature();
+  float h = dht.readHumidity();
+  if (!isnan(t) && !isnan(h)) { g_temperatura = t; g_humedad = h; }
 
-void handleData() {
-  float temp = dht.readTemperature();
-  float hum = dht.readHumidity();
-  float nivel = getDistance();
-  int lux = analogRead(LDR_PIN);
+  g_nivel_cm = getDistanceCm();
+  g_lux = analogRead(LDR_PIN);
 
+  g_tieneDatos = true;
+
+  Serial.println("===== LECTURAS =====");
+  Serial.print("Temp (C): "); Serial.println(g_temperatura);
+  Serial.print("Hum  (%): "); Serial.println(g_humedad);
+  Serial.print("Nivel (cm): "); Serial.println(g_nivel_cm);
+  Serial.print("Luz (ADC): "); Serial.println(g_lux);
+  Serial.println("===================");
+}
+
+// =============================================================
+// CONTROL DE ACTUADORES
+// =============================================================
+void controlarActuadores() {
+  // Luces y ventilador SIEMPRE encendidos
+  digitalWrite(FAN, HIGH);
+  digitalWrite(LED_PIN, HIGH);
+
+  // Motor según nivel de agua del ultrasónico
+  if (g_nivel_cm < 0) {
+      digitalWrite(MOTOR, LOW);
+      Serial.println("Motor APAGADO (lectura inválida)");
+  } else if (g_nivel_cm <= NIVEL_ALTO_CM) {
+      digitalWrite(MOTOR, HIGH);
+      Serial.println("Motor ENCENDIDO (nivel de agua alto)");
+  } else {
+      digitalWrite(MOTOR, LOW);
+      Serial.println("Motor APAGADO (nivel de agua bajo)");
+  }
+}
+
+// =============================================================
+// ENVÍO A THINGSPEAK
+// =============================================================
+void enviarThingSpeak() {
+  if (WiFi.status() != WL_CONNECTED) { Serial.println("Sin WiFi, no se envía ThingSpeak."); return; }
+  HTTPClient http;
+  String url = String(TS_SERVER) +
+               "?api_key=" + TS_WRITE_API_KEY +
+               "&field1=" + String(g_temperatura, 2) +
+               "&field2=" + String(g_humedad, 2) +
+               "&field3=" + String(g_nivel_cm, 2) +
+               "&field4=" + String(g_lux);
+  http.begin(url);
+  int code = http.GET();
+  Serial.print("ThingSpeak HTTP code: "); Serial.println(code);
+  http.end();
+}
+
+// =============================================================
+// HANDLER /datos
+// =============================================================
+void handleDatos() {
+  if(!g_tieneDatos) { leerSensores(); controlarActuadores(); }
   String json = "{";
-  json += "\"temperatura\":" + String(temp) + ",";
-  json += "\"humedad\":" + String(hum) + ",";
-  json += "\"nivel\":" + String(nivel) + ",";
-  json += "\"lux\":" + String(lux);
-  json += "}";
-
+  json += "\"temperatura\":" + String(g_temperatura, 2) + ",";
+  json += "\"humedad\":" + String(g_humedad, 2) + ",";
+  json += "\"nivel\":" + String(g_nivel_cm, 2) + ",";
+  json += "\"lux\":" + String(g_lux) + "}";
   server.send(200, "application/json", json);
 }
 
-// Actualizar LED desde App Inventor
-void handleLED() {
-  if (server.hasArg("valor")) {
-    int intensidad = server.arg("valor").toInt();
-    intensidad = constrain(intensidad, 0, 255);
-    ledcWrite(0, intensidad);
-    server.send(200, "text/plain", "OK");
-  }
+// =============================================================
+// Página simple en /
+void handleRoot() {
+  String html = "<!DOCTYPE html><html><body>"
+                "<h2>ECOLETTUCE - Nodo ESP32</h2>"
+                "<p>Servidor activo. Endpoint de datos: <b>/datos</b></p>"
+                "</body></html>";
+  server.send(200, "text/html", html);
 }
 
-// Activar motor
-void handleMotor() {
-  digitalWrite(MOTOR, HIGH);
-  server.send(200, "text/plain", "Motor ON");
-}
-
-// Apagar motor
-void handleMotorOff() {
-  digitalWrite(MOTOR, LOW);
-  server.send(200, "text/plain", "Motor OFF");
-}
-
-// Ventilador
-void handleFan() {
-  digitalWrite(FAN, HIGH);
-  server.send(200, "text/plain", "Fan ON");
-}
-
-void handleFanOff() {
-  digitalWrite(FAN, LOW);
-  server.send(200, "text/plain", "Fan OFF");
-}
-
+// =============================================================
+// SETUP
+// =============================================================
 void setup() {
   Serial.begin(115200);
+  delay(1000);
 
-  // Pines
-  pinMode(TRIG, OUTPUT);
-  pinMode(ECHO, INPUT);
-  pinMode(MOTOR, OUTPUT);
-  pinMode(LED_PIN, OUTPUT);
-  pinMode(FAN, OUTPUT);
+  pinMode(TRIG, OUTPUT); pinMode(ECHO, INPUT);
+  pinMode(MOTOR, OUTPUT); pinMode(FAN, OUTPUT); pinMode(LED_PIN, OUTPUT);
 
-  dht.begin();
+  digitalWrite(MOTOR, LOW);
+  digitalWrite(FAN, HIGH);
+  digitalWrite(LED_PIN, HIGH);
 
-  // PWM para LED
-  ledcSetup(0, 5000, 8);
-  ledcAttachPin(LED_PIN, 0);
+  dht.begin(); delay(2000);
 
-  // Conexión WiFi
+  WiFi.mode(WIFI_STA);
   WiFi.begin(ssid, password);
-  Serial.print("Conectando a WiFi...");
-  while (WiFi.status() != WL_CONNECTED) {
-    delay(500);
-    Serial.print(".");
+  Serial.print("Conectando a WiFi");
+  int intentos = 0;
+  while(WiFi.status() != WL_CONNECTED && intentos < 30) { Serial.print("."); delay(500); intentos++; }
+  if(WiFi.status() == WL_CONNECTED) {
+      Serial.println("\nWiFi conectado!");
+      Serial.print("IP local: "); Serial.println(WiFi.localIP());
+  } else {
+      Serial.println("\nNo se pudo conectar a WiFi");
   }
-  Serial.println("\nWiFi conectado");
-  Serial.print("IP: ");
-  Serial.println(WiFi.localIP());
 
-  // Rutas del servidor (como App Inventor espera)
-  server.on("/datos", handleData);
-  server.on("/led", handleLED);
-  server.on("/motor_on", handleMotor);
-  server.on("/motor_off", handleMotorOff);
-  server.on("/fan_on", handleFan);
-  server.on("/fan_off", handleFanOff);
-
+  server.on("/", handleRoot);
+  server.on("/datos", handleDatos);
   server.begin();
+  Serial.println("Servidor HTTP iniciado.");
+  Serial.print("Endpoint de datos: http://"); Serial.print(WiFi.localIP()); Serial.println("/datos");
 }
 
+// =============================================================
+// LOOP
+// =============================================================
 void loop() {
   server.handleClient();
+
+  unsigned long ahora = millis();
+  if(ahora - ultimoMomentoLectura >= INTERVALO_LECTURA) {
+      ultimoMomentoLectura = ahora;
+      leerSensores();
+      controlarActuadores();
+  }
+
+  if(ahora - ultimoEnvioTS >= INTERVALO_TS) {
+      ultimoEnvioTS = ahora;
+      enviarThingSpeak();
+  }
 }
