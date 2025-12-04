@@ -23,7 +23,7 @@
 
 // ====================== CONFIG SENSORES ======================
 #define DHTPIN 4
-#define DHTTYPE DHT22
+#define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
 
 #define LDR_PIN 34     // Entrada analógica para el LDR
